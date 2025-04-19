@@ -1,2 +1,4 @@
 data/staging/data.duckdb
 data/raw/*.parquet
+data/staging/data.duckdb
+data/raw/*.parquet
